@@ -10,3 +10,4 @@ venv/
 *.log
 *.qm
 *.csv
+*.DS_Store
