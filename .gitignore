@@ -1,0 +1,12 @@
+# Ignore compiled binaries
+*.exe
+*.o
+
+# Ignore dependency directories
+env/
+venv/
+
+# Ignore log files
+*.log
+*.qm
+*.csv
