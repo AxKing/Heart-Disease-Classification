@@ -5,6 +5,7 @@
 # Ignore dependency directories
 env/
 venv/
+data/
 
 # Ignore log files
 *.log
